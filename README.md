@@ -1,2 +1,1 @@
-# tindog
-bootStratLesson
+TinDog Starting Files
